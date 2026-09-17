@@ -29,9 +29,9 @@ ggplot(plot_df, aes(x = x, y = y)) +
 	geom_point()
 ```
 
-Add another histogram
+New scatterplot
 
-```{r x_hist}
-ggplot(plot_df, aes(x = x)) + 
-	geom_histogram()
+```{r yx_scatters}
+ggplot(plot_df, aes(x = x, y = y)) + 
+	geom_point()
 ```
