@@ -21,5 +21,6 @@ I can take the mean of the sample, too!
 The mean is `r mean(samp)`.
 
 ```{r}
-
+"testing"
+testing
 ```
