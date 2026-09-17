@@ -1,5 +1,5 @@
 ---
-title: "Simple document"
+title: "Simple document, not so simple really"
 output: html_document
 ---
 
@@ -19,3 +19,7 @@ length(samp)
 
 I can take the mean of the sample, too!
 The mean is `r mean(samp)`.
+
+```{r}
+
+```
